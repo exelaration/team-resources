@@ -2,6 +2,11 @@
 
 Here you will find a curated list of resources on a variety of topics including tools, design patterns, best practices, and more. This list represents resources that the XC Team Leads have found to be valuable in the process of onboarding team members to projects, expanding their skill sets, or introducing new concepts.
 
+## Activities
+
+ - [Onboarding Project](ONBOARDING.md)
+
+
 ## Tools
 
 ### Git
