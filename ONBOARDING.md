@@ -7,7 +7,7 @@ Your wrap-up exercise for your onboarding is to make a website (can be just a si
 3. Once all of that is done, create a way to add a new country by sending a `POST` call to `https://xc-countries-api.herokuapp.com/api/countries/`
 5. Create a way to add new states by sending a `POST` call to `https://xc-countries-api.herokuapp.com/api/states/`
 
-[Insomnia](https://insomnia.rest) and [Postman](https://www.postman.com) are tools for interacting with REST APIs (which is what `https://xc-countries-api.herokuapp.com/api/` is), so feel free to use them to experiment and understand the data your page will be recieving from the `GET` requests, and what it should send in a `POST` request.
+[Insomnia](https://insomnia.rest) and [Postman](https://www.postman.com) are tools for interacting with REST APIs (which is what `https://xc-countries-api.herokuapp.com/api/` is), so feel free to use them to experiment and understand the data your page will be receiving from the `GET` requests, and what it should send in a `POST` request.
 
 
 ## Stretch Goals
