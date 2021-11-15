@@ -4,19 +4,25 @@ Here you will find a curated list of resources on a variety of topics including 
 
 ## Activities
 
- - [Onboarding Project](ONBOARDING.md)
-
+- [Onboarding Project](ONBOARDING.md)
 
 ## Tools
 
 ### Git
 
- - [Think Like (a) Git](http://think-like-a-git.net/) - Intermediate guide that explains how git works internally and helps you understand what all the git commands actually do, which can really start to unlock their power.
- - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Guide to writing concise, useful and consistent git commit messages.
+- [Think Like (a) Git](http://think-like-a-git.net/) - Intermediate guide that explains how git works internally and helps you understand what all the git commands actually do, which can really start to unlock their power.
+- [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Guide to writing concise, useful and consistent git commit messages.
 
+### Docker
+
+[Docker - Getting Started](DOCKER.md)
+
+### Python
+
+[Python - Getting Started](PYTHON.md)
 
 ## Agile
 
 ### Scrum
 
- - [The work-centric standup](https://blog.usejournal.com/the-work-centric-standup-cc20205b47ea) - An alternate approach to the Scrum daily stand up ceremony that focuses on the tasks themselves.
+- [The work-centric standup](https://blog.usejournal.com/the-work-centric-standup-cc20205b47ea) - An alternate approach to the Scrum daily stand up ceremony that focuses on the tasks themselves.
