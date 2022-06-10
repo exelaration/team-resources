@@ -17,6 +17,10 @@ Here you will find a curated list of resources on a variety of topics including 
 
 [Docker - Getting Started](DOCKER.md)
 
+### React/Typescript
+
+[React & Typescript](REACT.md)
+
 ### Python
 
 [Python - Getting Started](PYTHON.md)
