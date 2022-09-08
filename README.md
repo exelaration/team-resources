@@ -11,6 +11,7 @@ Here you will find a curated list of resources on a variety of topics including 
 - [Onboarding Project](ONBOARDING.md)
 - [React & Typescript](REACT.md) †
 - [Python - Getting Started](PYTHON.md) †
+- [Angular](https://www.codecademy.com/resources/docs/general/angular) † and [Tour of Heroes application and tutorial](https://angular.io/tutorial) †
 
 † Optional based on time and project
 
