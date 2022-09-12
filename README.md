@@ -19,8 +19,8 @@ Here you will find a curated list of resources on a variety of topics including 
 
 ### Git
 
-- [Welcome to Learn Git Branching](https://learngitbranching.js.org/) - Interactive tutorial.
 - [Practical Git for Everyday Professional Use](https://egghead.io/courses/practical-git-for-everyday-professional-use) - ~72 minutes of video.
+- [Welcome to Learn Git Branching](https://learngitbranching.js.org/) - Interactive tutorial.
 - [Think Like (a) Git](http://think-like-a-git.net/) - Intermediate guide that explains how git works internally and helps you understand what all the git commands actually do, which can really start to unlock their power.
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Guide to writing concise, useful and consistent git commit messages.
 
