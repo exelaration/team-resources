@@ -15,7 +15,7 @@ Here you will find a curated list of resources on a variety of topics including 
 - [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) †
 - [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) † <!-- 💲 paid pro only - [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) † -->
 
-† Optional based on time and project
+† Optional based on time and future client/project
 
 ## Tools
 
