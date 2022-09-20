@@ -12,6 +12,8 @@ Here you will find a curated list of resources on a variety of topics including 
 - [React & Typescript](REACT.md) †
 - [Python - Getting Started](PYTHON.md) †
 - [Angular](https://www.codecademy.com/resources/docs/general/angular) † and [Tour of Heroes application and tutorial](https://angular.io/tutorial) †
+- [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) †
+<!-- 💲 paid pro only - [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) † -->
 
 † Optional based on time and project
 
