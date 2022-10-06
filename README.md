@@ -4,26 +4,33 @@ Here you will find a curated list of resources on a variety of topics including 
 
 ## Activities
 
+- [Learn HTML](https://www.codecademy.com/learn/learn-html)
+- [Learn CSS](https://www.codecademy.com/learn/learn-css)
+- [Learn JavaScript](https://www.codecademy.com/learn/introduction-to-javascript)
+- [Learn TypeScript](https://www.codecademy.com/learn/learn-typescript) †
 - [Onboarding Project](ONBOARDING.md)
+- [React & Typescript](REACT.md) †
+- [Python - Getting Started](PYTHON.md) †
+- [Angular](https://www.codecademy.com/resources/docs/general/angular) † and [Tour of Heroes application and tutorial](https://angular.io/tutorial) †
+- [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) † and [Tutorial: Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api) †
+- [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) † <!-- 💲 paid pro only - [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) † -->
+
+† Optional based on time and future client/project
 
 ## Tools
 
 ### Git
 
+- [Practical Git for Everyday Professional Use](https://egghead.io/courses/practical-git-for-everyday-professional-use) - ~72 minutes of video.
+- [Welcome to Learn Git Branching](https://learngitbranching.js.org/) - Interactive tutorial.
 - [Think Like (a) Git](http://think-like-a-git.net/) - Intermediate guide that explains how git works internally and helps you understand what all the git commands actually do, which can really start to unlock their power.
 - [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) - Guide to writing concise, useful and consistent git commit messages.
+
 
 ### Docker
 
 [Docker - Getting Started](DOCKER.md)
 
-### React/Typescript
-
-[React & Typescript](REACT.md)
-
-### Python
-
-[Python - Getting Started](PYTHON.md)
 
 ## Agile
 
