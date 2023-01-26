@@ -12,11 +12,8 @@ Here you will find a curated list of resources on a variety of topics including 
 - [React & Typescript](REACT.md) †
 - [Python - Getting Started](PYTHON.md) †
 - [Angular](https://www.codecademy.com/resources/docs/general/angular) † and [Tour of Heroes application and tutorial](https://angular.io/tutorial) †
-- [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) † and [Tutorial: Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api) †
-- [Getting Started with EF Core](https://learn.microsoft.com/en-us/ef/core/get-started/overview/first-app) † or [Entity Framework Core](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) †
-- [Tutorial: Get Started with Entity Framework 6 Code First using MVC 5](https://learn.microsoft.com/en-us/aspnet/mvc/overview/getting-started/getting-started-with-ef-using-mvc/creating-an-entity-framework-data-model-for-an-asp-net-mvc-application) †
-  - Many of our client project do not use the templating features so you may ask your lead/mentor about skipping the `.cshtml` sections.
-
+- [Learn C#](https://www.codecademy.com/learn/learn-c-sharp) † 
+  - [Tutorial: Create a web API with ASP.NET Core](https://learn.microsoft.com/en-us/aspnet/core/tutorials/first-web-api) (includes Entity Framework) †
 - [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) † <!-- 💲 paid pro only - [Learn Ruby on Rails](https://www.codecademy.com/learn/learn-rails) † -->
 
 † Optional based on time and future client/project
