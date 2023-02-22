@@ -10,6 +10,17 @@ Your wrap-up exercise for your onboarding is to make a website (can be just a si
 [Insomnia](https://insomnia.rest) and [Postman](https://www.postman.com) are tools for interacting with REST APIs (which is what `https://xc-countries-api.fly.dev/api/` is), so feel free to use them to experiment and understand the data your page will be receiving from the `GET` requests, and what it should send in a `POST` request.
 
 
+## Troubleshooting
+
+If you are have problems reaching the server API with your code,
+and you want to check that the server is up vs your code having problems,
+try loading
+[https://xc-countries-api.fly.dev/api/countries/](https://xc-countries-api.fly.dev/api/countries/)
+in your browser
+and your browser should show you a JSON blob with country data.
+If it does not, please contact someone in the onboarding Slack channel. 
+
+
 ## Stretch Goals
 You may be referred to these activities by your mentor after completing the standard behavior described above. They are intended to increase your experience and understanding of a particular technology stack.
 
